@@ -1,1 +1,2 @@
+Redirect 301 / http://friiishop.rf.gd/
 ErrorDocument 404 /error/404.html
